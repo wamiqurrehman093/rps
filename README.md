@@ -1,2 +1,2 @@
-# rps
-Rock Paper Scissors
+# network-arcade
+networking and arcade
