@@ -3,7 +3,10 @@ from _thread import *
 import pickle
 from game import Game
 
-server = "192.168.10.170"
+f = open("server_ip.txt", 'r')
+f1 = f.readline()
+# server = "192.168.10.150"
+server = f1
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
