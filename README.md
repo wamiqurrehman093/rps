@@ -1,4 +1,4 @@
-# network-arcade
+# Rock Paper Scissors using Arcade and Python Sockets
 networking and arcade
 
 How to play:
